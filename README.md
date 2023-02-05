@@ -13,6 +13,15 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+    <code><img width="10%" src=" https://www.vectorlogo.zone/logos/python/python-ar21.svg "></code> 
+<code><img width="10%" src=" https://www.vectorlogo.zone/logos/java/java-ar21.svg "></code> 
+<code><img width="10%" src=" https://www.vectorlogo. zone/logos/w3_html5/w3_html5-ar21.svg "></code> 
+<code><img width="10%" src=" https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg "></code> 
+<br /> 
+<code><img width="10%" src=" https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg "></code>
+<code><img width="10%" src=" https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg "></code> 
+<code><img width= "10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg "></code> 
+<code><img width="10%" src=" https://www.vectorlogo.zone/logos /canva/canva-ar21.svg "></code>
 </div>
   <br/>
   <div> 
