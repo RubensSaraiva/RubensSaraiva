@@ -1,4 +1,4 @@
-## Eai, Sou o Rubens Eduardo Desenvolvedor Back-End e entusiasta de tecnologias.
+## Hi, I'm Rubens Eduardo, Full Stack Developer and technology enthusiast.
 
 <div align="center">
   <a href="https://github.com/RubensSaraiva">
